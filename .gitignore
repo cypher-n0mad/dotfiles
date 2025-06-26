@@ -1,0 +1,12 @@
+# Ignore backup/swap/undo/cache files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore Neovim state/cache folders
+.cache/
+undo/
+swap/
+session/
+shada/
