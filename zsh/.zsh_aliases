@@ -1,0 +1,6 @@
+# System
+alias void='sudo poweroff'
+
+# Management
+alias sman='sudo pacman -S'
+
