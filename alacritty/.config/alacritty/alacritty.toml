@@ -25,10 +25,9 @@ vi_mode_style = "Block"
 # by fenetikm, https://github.com/fenetikm/falcon
 [colors]
 
-# Default colors
 [colors.primary]
-  background = '0x020221'
-  foreground = '0xb4b4b9'
+  background = "#0F0F0F"
+  foreground = "#FF4C4C"
 
 # Cursor colors
 [colors.cursor]
@@ -37,25 +36,25 @@ vi_mode_style = "Block"
 
 # Normal colors
 [colors.normal]
-  black   = '0x000004'
-  red     = '0xff3600'
-  green   = '0x859933'
-  yellow  = '0xffc552'
-  blue    = '0x635196'
-  magenta = '0xff761a'
-  cyan    = '0x34bfa4'
-  white   = '0xb4b4b9'
+  black   = "#1C1C1C"
+  red     = "#FF4C4C"
+  green   = "#5AF78E"
+  yellow  = "#F3F99D"
+  blue    = "#57C7FF"
+  magenta = "#FF6AC1"
+  cyan    = "#9AEDFE"
+  white   = "#F1F1F0"
 
 # Bright colors
 [colors.bright]
-  black   = '0x020221'
-  red     = '0xff8e78'
-  green   = '0xb2bc55'
-  yellow  = '0xffd392'
-  blue    = '0x99a4bc'
-  magenta = '0xffb07b'
-  cyan    = '0x8bccbf'
-  white   = '0xf8f8ff'
+  black   = "#686868"
+  red     = "#FF6B6B"
+  green   = "#69FF94"
+  yellow  = "#FFFFA5"
+  blue    = "#7CDFFF"
+  magenta = "#FF92D0"
+  cyan    = "#A4FFFF"
+  white   = "#FFFFFF"
 
 [selection]
 save_to_clipboard = true
