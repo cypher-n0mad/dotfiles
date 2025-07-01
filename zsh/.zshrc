@@ -114,6 +114,7 @@ typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 [ -f ~/.zsh_aliases ] && source ~/.zsh_aliases
+[ -f ~/.zsh_exports ] && source ~/.zsh_exports
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

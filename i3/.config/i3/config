@@ -202,3 +202,7 @@ exec_always --no-startup-id ~/.fehbg
 
 # menu bar 
 exec_always --no-startup-id ~/.config/polybar/launch.sh --material
+
+# CypherMind
+exec_always --no-startup-id ollama serve
+exec_always --no-startup-id systemctl --user start ai-orchestrator.service

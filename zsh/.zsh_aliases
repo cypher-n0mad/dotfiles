@@ -4,3 +4,5 @@ alias void='sudo poweroff'
 # Management
 alias sman='sudo pacman -S'
 
+# Applications
+alias vsc='code .'

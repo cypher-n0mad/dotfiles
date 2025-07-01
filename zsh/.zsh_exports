@@ -1,0 +1,2 @@
+# CypherMind
+export AI_SOCK=$HOME/.local/run/ai.sock
