@@ -6,3 +6,7 @@ alias sman='sudo pacman -S'
 
 # Applications
 alias vsc='code .'
+
+# Network
+alias network='nmcli device wifi list'
+alias connect='nmcli device wifi connect'
